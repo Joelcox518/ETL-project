@@ -31,5 +31,10 @@ After closer examination of this dataset, we realized that rather than the data 
 
 ## ANALYSIS
 
-- The intent of this project was to examine Covid-19 morbidity rates in Indiana's 92 counties by 
+- The purpose of this project was to examine Covid-19 morbidity rates in Indiana's 92 counties by analyizing:
+  - percentage of Covid-19 cases that resulted in hospitalization
+  - percentage of Covid-19 cases that resulted in death
+  
+
+ 
 
