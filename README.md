@@ -19,4 +19,12 @@ After closer examination of this dataset, we realized that rather than the data 
 
 IDSH Indiana Data Hub - Covid-19 County Statistics
 
-- From the Indiana ISDH Data Hub we selected: Covid-19 County Statistics, then explored the Covid-19 County Statistics XLS, added 
+- From the Indiana ISDH Data Hub we selected: Covid-19 County Statistics, then explored the Covid-19 County Statistics XLS, then filtered by County_Name.
+- This produced cumulative, by-county data that included "Covid_Count" (cases) and "Covid_Deaths," 
+https://hub.mph.in.gov/dataset/covid-19-county-statistics/resource/8b8e6cd7-ede2-4c41-a9bd-4266df783145.
+- We chose those two columns and county; eliminating extraneous data ("Location_ID" and "Covid_Test"), which did not serve our purposes for this analysis.
+
+BUILDING THE COMBINED DATABASE
+
+- First, we created a database in PostGres, with two tables containing the respective columns of data we pulled from our two sources.
+- Next, we initiated a connection from Pandas to PostGres.
