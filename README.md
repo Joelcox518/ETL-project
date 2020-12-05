@@ -27,5 +27,9 @@ After closer examination of this dataset, we realized that rather than the data 
 ## BUILDING THE COMBINED DATABASE
 
 1. First, we created a database in PostGres, with two tables containing the respective columns of data we pulled from our two sources.
-1. Next, we initiated a connection from Pandas to PostGres.
+1. Next, we initiated a connection from Pandas to PostGres to allow for analysis of the our combined data.
+
+## ANALYSIS
+
+- The intent of this project was to examine Covid-19 morbidity rates in Indiana's 92 counties by 
 
