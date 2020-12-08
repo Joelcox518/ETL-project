@@ -6,7 +6,7 @@ Utlizing data sets provided by *The New York Times* and the State of Indiana and
 
 ## EXTRACTING DATA 
 
-We discovered the New York Times database through Kaggle (https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset). To understand the scope of the data, we loaded it to a CSV reader through Jupyter notebook. 
+We discovered *The New York Times* database through Kaggle (https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset). To understand the scope of the data, we loaded it to a CSV reader through Jupyter notebook. 
 
 The Regenstrief data was in CSV format and was downloaded directly from the Regenstrief Institute's Covid-19 dashboard (https://www.regenstrief.org/data-downloads/). We looked at both data sets and preliminarily determined it was feasible to efficiently to conduct the analysis.
 
