@@ -40,14 +40,30 @@ After closer examination of this dataset, we realized that rather than the data 
 
 ## ANALYSIS
 
-- The purpose of this project was to examine Covid-19 morbidity rates in Indiana's 92 counties by analyizing:
-  - percentage of Covid-19 cases that resulted in hospitalization
-  - percentage of Covid-19 cases that resulted in death
+- The purpose of this project was to examine Covid-19 morbidity rates in Indiana's 92 counties by analyzing:
+
+    *Counties with the highest percentage of Covid-19 cases that resulted in hospitalization*
+    
+    1. Orange County
+    1. Shelby County
+    1. Fayette County
+    1. Lagrange County
+    1. Decatur County
+   
+    *Counties with the highest percentage of Covid-19 cases that resulted in death*
+    
+    1. Greene County
+    1. Pulaski County
+    1. Tipton County
+    1. Orange County
+    1. Pike County
 
 - The cleaned and combined data set lends itself further analysis through the addition of further datasets. Potential questions for future study may include:
   - Is there a relationship between a county's predominant political party affiliation and Covid-19 rates?
   - How does a county's educational attainment level affect Covid-19 rates?
   - Is there a statistically-significant relationship between a county's Covid-19 case morbidity rate a its median income?
+  
+                                                                                *###*
   
 
  
