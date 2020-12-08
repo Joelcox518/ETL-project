@@ -2,7 +2,7 @@
 
 ## OVERVIEW
 
-Utlizing data sets provided by *The New York Times* and the State of Indiana and Regenstrief Institute, we anaylzed Covid-19 case morbidity rates by Indiana county since March 1, 2020. Our goal is to find cases and hospitalizations by county; then examine death rates related to these figures to understand which counties had the worst case morbidity rates related to hospitalizations and cases
+Utlizing data sets provided by *The New York Times,* The Regenstrief Institute and the Indiana State Department of Health, we anaylzed Covid-19 case morbidity rates by Indiana county since March 1, 2020. Our goal is to find cases and hospitalizations by county; then examine death rates related to these figures to understand which counties had the worst case morbidity rates related to hospitalizations and cases
 
 ## EXTRACTING DATA 
 
